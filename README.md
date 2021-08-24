@@ -1,8 +1,8 @@
 ## Hallo! I'm Juline R R Martins 
  <div>
   <a href="https://github.com/julianerrm">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=julianerrm&show_icons=true&hide_title=true&icon_color=677025&title_color=677025&text_color=DF712E&hide_border=true&bg_color=C2C262&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&hide_title=true&bg_color=C2C262&hide_border=true&text_color=566230&title_color=71813F"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianerrm&show_icons=true&hide_title=true&icon_color=677025&title_color=677025&text_color=DF712E&hide_border=true&bg_color=C2C262&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&hide_title=true&bg_color=C2C262&hide_border=true&text_color=566230&title_color=71813F"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
