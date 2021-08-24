@@ -1,3 +1,5 @@
+<!-- If you are interested in learning how to personalize your profile, check https://github.com/rafaballerini/PerfilGithub. I learned it there (The page is in portuguese)-->
+
 <h3 align="center">
 Hallo, welcome to my profile!
 </h3>
@@ -12,20 +14,24 @@ Hallo, welcome to my profile!
   <a href="https://instagram.com/julianerrm"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.discordapp.com/attachments/861971339655905300/879843530779017286/instagram_2.png"/></a>
 </p>
  
-  ##
+##
+<!-- The gif is a art I made myself and then used https://giphy.com/ to turn it into a gif -->  
+<!-- If you want to use my art, please contact me-->  
+
+<div> 
+<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"/> 
  
- <div> 
- <img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"/> 
+I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
+I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
  
- I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
- I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
- 
- Last but not least, you should know that I have made it my life purpuse to help **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
+Last but not least, you should know that I have made it my life purpuse to help **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
  
  
  </div>
 
 ##
+
+<!-- Github stats - https://github.com/anuraghazra/github-readme-stats -->  
  
  📊 **Github stats**
  <div>
@@ -36,6 +42,8 @@ Hallo, welcome to my profile!
  
  ## 
  
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges --> 
+
 🛠️ **My tools**
 <div style="display: inline_block"><br>
   <a href="#"><img src="https://img.shields.io/badge/C-Intermadiate-905B5B.svg?logo=C"></a>
@@ -51,4 +59,4 @@ Hallo, welcome to my profile!
   <a href="#"><img src="https://img.shields.io/badge/Spanish-Advanced-697D55.svg"></a>
  <a href="#"><img src="https://img.shields.io/badge/German-Beginner-697D55.svg"></a>
 </div>
-  
+
