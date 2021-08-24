@@ -21,6 +21,8 @@ Hallo, welcome to my profile!
  I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
  
  Last but not least, you should know that I have made it my life purpuse to help **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
+ 
+ 
  </div>
 
 ##
