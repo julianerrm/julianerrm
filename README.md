@@ -15,7 +15,7 @@ Hallo, welcome to my profile!
 </p>
  
 ##
-<!-- The gif is a art I made myself and then used https://giphy.com/ to turn it into a gif -->  
+<!-- The gif is aN art I made myself and then used https://giphy.com/ to turn it into a gif -->  
 <!-- If you want to use my art, please contact me-->  
 
 <div> 
@@ -50,7 +50,7 @@ Last but not least, you should know that I have made it my life purpuse to help 
   <a href="#"><img src="https://img.shields.io/badge/Shell-Introductory-905B5B.svg?logo=Shell"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-Introductory-905B5B.svg?logo=Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-Introductory-905B5B.svg?logo=JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-Intermadiate-905B5B.svg?"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-Intermadiate-905B5B.svg?logo=sql"></a>
 </div>
 
 <div style="display: inline_block"><br>
