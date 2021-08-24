@@ -1,7 +1,7 @@
 ## Hallo! I'm Juline R R Martins 
  <div>
   <a href="https://github.com/julianerrm">
-  <img align="right" alt="julianerrm" src="https://i.makeagif.com/media/8-24-2021/4YG4YP.gif">
+  <img align="right" alt="julianerrm" src="https://media.giphy.com/media/vixicXnHSsPbTfeD4D/giphy.gif?cid=790b7611d5f882dda7bda03fef5a07963e1a67fa12de9b35&rid=giphy.gif&ct=g">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=julianerrm&show_icons=true&hide_title=true&icon_color=905B5B&title_color=905B5B&text_color=FFFFFF&hide_border=true&bg_color=697D55&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&hide_title=true&bg_color=697D55&hide_border=true&text_color=FFFFFF"/>
 </div>
