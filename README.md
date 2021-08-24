@@ -1,7 +1,22 @@
-## Hallo! I'm Juline R R Martins 
+<h3 align="center">
+Hallo! I'm Juline R R Martins 
+</h3>
+ 
+ <p align="center">
+  <a href="https://discord.com/users/861741406405001217" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:julianerrm@hotmail.com"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/julianerrm"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
+ 
+ ##
+ 
  <div>
   <a href="https://github.com/julianerrm">
-  <img align="right" alt="julianerrm" src="https://media.giphy.com/media/vixicXnHSsPbTfeD4D/giphy.gif?cid=790b7611d5f882dda7bda03fef5a07963e1a67fa12de9b35&rid=giphy.gif&ct=g">
+  <img align="right" height="250" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=julianerrm&show_icons=true&hide_title=true&icon_color=905B5B&title_color=905B5B&text_color=FFFFFF&hide_border=true&bg_color=697D55&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&hide_title=true&bg_color=697D55&hide_border=true&text_color=FFFFFF"/>
 </div>
@@ -13,25 +28,6 @@
 
 </div>
   
-  ##
- 
-<div> 
- <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:julianerrm@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/julianerrm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
- 
-</div>
-
-
-
-
-
-
-
-
-
 <!---
 
 - 👋 Hi, I’m @julianerrm
