@@ -24,7 +24,7 @@ Hallo, welcome to my profile!
 I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
 I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
  
-Last but not least, you should know that I have made it my life purpuse to help **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
+Last but not least, you should know that I have made it my life purpose to help the **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
  
  
  </div>
