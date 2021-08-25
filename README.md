@@ -27,6 +27,7 @@ I love working with **data** and coding challenges move me. I'm also interested 
 Last but not least, you should know that I have made it my life purpose to help the **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
  
  
+ 
  </div>
 
 ##
