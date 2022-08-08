@@ -8,11 +8,11 @@ Hello, welcome to my profile!
 </div>
 <br>
  <p align="center">
-  <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.postimg.cc/JnJ1kFsN/linkedin-2.png"></a>
+  <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/" target="_blank"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.postimg.cc/JnJ1kFsN/linkedin-2.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:julianerrm@hotmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn.discordapp.com/attachments/861971339655905300/879844240643981352/o-email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/861741406405001217" alt="Discord" title="Discord" ><img width="32px" src="https://cdn.discordapp.com/attachments/861971339655905300/879844245098336277/discordia.png"/></a>
+  <a href="https://discord.com/users/861741406405001217" alt="Discord" title="Discord" target="_blank" ><img width="32px" src="https://cdn.discordapp.com/attachments/861971339655905300/879844245098336277/discordia.png"/></a>
 
 </p>
 
