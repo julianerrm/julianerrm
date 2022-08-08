@@ -1,9 +1,12 @@
 <!-- If you are interested in learning how to personalize your profile, check https://github.com/rafaballerini/PerfilGithub. I learned it there (The page is in portuguese)-->
 
 <h3 align="center">
-Hallo, welcome to my profile!
+Hello, welcome to my profile!
 </h3>
- 
+<div>
+<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"/> 
+</div>
+
  <p align="center">
   <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.discordapp.com/attachments/861971339655905300/879844247069687828/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -11,7 +14,6 @@ Hallo, welcome to my profile!
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/861741406405001217" alt="Discord" title="Discord" ><img width="32px" src="https://cdn.discordapp.com/attachments/861971339655905300/879844245098336277/discordia.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/julianerrm"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.discordapp.com/attachments/861971339655905300/879843530779017286/instagram_2.png"/></a>
 </p>
  
 ##
@@ -19,7 +21,6 @@ Hallo, welcome to my profile!
 <!-- If you want to use my art, please contact me-->  
 
 <div> 
-<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"/> 
  
 I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
 I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
@@ -49,8 +50,8 @@ Last but not least, you should know that I have made it my life purpose to help 
 <div style="display: inline_block"><br>
   <a href="#"><img src="https://img.shields.io/badge/C-Intermadiate-905B5B.svg?logo=C"></a>
   <a href="#"><img src="https://img.shields.io/badge/Shell-Introductory-905B5B.svg?logo=Shell"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-Introductory-905B5B.svg?logo=Python"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Introductory-905B5B.svg?logo=JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Intermadiate-905B5B.svg?logo=Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Intermadiate-905B5B.svg?logo=JavaScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-Intermadiate-905B5B.svg?logo=sql"></a>
 </div>
 
@@ -58,6 +59,5 @@ Last but not least, you should know that I have made it my life purpose to help 
   <a href="#"><img src="https://img.shields.io/badge/Portuguese-Native-697D55.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/English-Fluent-697D55.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Spanish-Advanced-697D55.svg"></a>
- <a href="#"><img src="https://img.shields.io/badge/German-Beginner-697D55.svg"></a>
 </div>
 
