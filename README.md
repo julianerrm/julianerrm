@@ -3,9 +3,11 @@
 <h3 align="center">
 Hello, welcome to my profile!
 </h3>
+<br>
 <div>
-<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"/> 
+<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"> 
 </div>
+<br>
 <div>
  <p align="center">
   <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.discordapp.com/attachments/861971339655905300/879844247069687828/linkedin.png"></a>
