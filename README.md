@@ -22,9 +22,9 @@ Hello, welcome to my profile!
 
 <div> 
  
-I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and I work as Data Analyst in the UN Enverinment Program ([UNEP](https://www.unep.org/)).
+I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and I work as Data Analyst in the United Nations Environment Programme ([UNEP](https://www.unep.org/)).
  
-✨ My aim is to develop myself into a Data Scientist and use that in the battle against Climate Change ✨
+✨ My aim is to develop myself into a **[Data Scientist](https://cursos.alura.com.br/formacao-data-science)** and use that in the battle against Climate Change ✨
  
 I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
  
