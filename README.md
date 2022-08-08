@@ -4,20 +4,17 @@
 Hello, welcome to my profile!
 </h3>
 <br>
-<div>
-<img align="left" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"> 
-</div>
+<img align="center" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"> 
 <br>
-<div>
  <p align="center">
   <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.discordapp.com/attachments/861971339655905300/879844247069687828/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:julianerrm@hotmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn.discordapp.com/attachments/861971339655905300/879844240643981352/o-email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/861741406405001217" alt="Discord" title="Discord" ><img width="32px" src="https://cdn.discordapp.com/attachments/861971339655905300/879844245098336277/discordia.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <!-- &#8287;&#8287;&#8287;&#8287;&#8287;-->  
 </p>
- </div>
+
 ##
 <!-- The gif is aN art I made myself and then used https://giphy.com/ to turn it into a gif -->  
 <!-- If you want to use my art, please contact me-->  
