@@ -3,18 +3,16 @@
 <h3 align="center">
 Hello, welcome to my profile!
 </h3>
-<br>
 <div align="center">
 <img align="center" height="160" alt="julianerrm" src="https://media.giphy.com/media/keL2o6qMp5RQ2JjfZM/giphy.gif?cid=790b761149bce62ab3fea3e90d382d315882aa782a6dea9f&rid=giphy.gif&ct=g"> 
 </div>
-<br>
  <p align="center">
   <a href="https://www.linkedin.com/in/juliane-rodrigues-ramiro-martins-b16b74149/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.discordapp.com/attachments/861971339655905300/879844247069687828/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="mailto:julianerrm@hotmail.com"><img width="32px" alt="Email" title="Email" src="https://cdn.discordapp.com/attachments/861971339655905300/879844240643981352/o-email.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/861741406405001217" alt="Discord" title="Discord" ><img width="32px" src="https://cdn.discordapp.com/attachments/861971339655905300/879844245098336277/discordia.png"/></a>
- <!-- &#8287;&#8287;&#8287;&#8287;&#8287;-->  
+
 </p>
 
 ##
@@ -23,10 +21,13 @@ Hello, welcome to my profile!
 
 <div> 
  
-I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
+I'm a Civil Engineer from Maua Institute of Technology ([MIT](https://maua.br/)) and I work as Data Analyst in the UN Enverinment Program ([UNEP] (https://www.unep.org/)).
+ 
+✨ My aim is to develop myself into a Data Scientist and use that in the battle against Climate Change ✨
+ 
 I love working with **data** and coding challenges move me. I'm also interested in [art](https://instagram.com/julianerrm.art), [music](https://open.spotify.com/playlist/4Dr1ijlnRY9NYlWFAaUHJD?si=12437d44f0574309) and travelling.
  
-Last but not least, you should know that I have made it my life purpose to help the **Earth** throuth its rough time sheltering us, humans. #govegan #leavenotrace
+Last but not least, you should know that I have made it my life purpose to help the **Earth** throuth its rough time sheltering us, humans.
   
  </div>
 
